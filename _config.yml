@@ -7,12 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
+name                     : &name "Your Name"
+description              : &description "personal description"
 name                     : &name "Stephanie Lu"
-description              : &description "Undergraduate, Economics & Mathematical Statistics"
-title                    : "Stephanie Lu / Welcome!"
-title_separator          : "-"
-name                     : &name "Stephanie Lu"
-description              : &description "Undergraduate, Economics & Mathematical Statistics"
+description              : &description "Undergraduate @ UC Davis"
 url                      : https://spylu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "spylu.github.io"
@@ -84,9 +82,9 @@ analytics:
 author:
   name             : "Stephanie Lu"
   avatar           : "profile.png"
-  bio              : "Undergraduate, Economics & Mathematical Statistics"
-  location         : "Davis, California"
-  employer         : University of California, Davis
+  bio              : "Undergraduate @ UC Davis studying Economics and Mathematical Statistics"
+  location         : "Davis, CA"
+  employer         :
   googlescholar    : 
   email            :
   researchgate     :  

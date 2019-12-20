@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, UC Davis, June 2020 (expected)
+* B.S. in Mathematical Statistics, UC Davis, June 2020 (expected)
 
 Work experience
 ======
@@ -56,4 +55,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* June 2019 to present: President, Taiwanese American Organization
+* February 2019 to June 2019: Pledge Retreat Chair, Alpha Phi Omega
+* June 2018 to January 2019: Corresponding Secretary, Alpha Phi Omega

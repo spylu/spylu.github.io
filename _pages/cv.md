@@ -16,8 +16,9 @@ Education
 
 Research experience
 ======
-* June 2019 to Present: Honors Thesis Writer
-  * Department of Economics, UC Davis
+###### Honors Thesis Writer
+Department of Economics, UC Davis
+June 2019 to Present
   * Independently researching relationship between income inequality, the credit driven household demand channel, and financial crises for presentation at UC Davis's 2020 Undergraduate Research Conference
   * One of 6 students chosen, from pool of 16 high-achieving economics students in department of 500+ students, to write senior honors thesis based on oral examination of econometrics
   * Used Stata to replicate results of Credit Booms Gone Bust (2012) by Schularick and Taylor, rewriting code where necessary

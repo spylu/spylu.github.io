@@ -53,16 +53,9 @@ Work experience
     
 Skills
 ======
-* Stata (proficient)
-* R (proficient)
-  * RStudio (proficient)
-* Excel (proficient)
-* LaTeX (proficient)
-* QGIS (proficient)
-* Bloomberg Terminal (working knowledge)
-* Markdown (working knowledge)
-* Python (working knowledge)
-* MATLAB (beginner)
+* Data Analysis: Stata (proficient), R/RStudio (proficient), Excel (proficient)
+* Applications: LaTeX (proficient), QGIS (proficient), Bloomberg Terminal (working knowledge), Markdown (working knowledge)
+* Programming: Python (working knowledge), MATLAB (beginner)
   
 Teaching
 ======

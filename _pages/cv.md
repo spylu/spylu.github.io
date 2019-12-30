@@ -16,16 +16,15 @@ Education
 
 Research experience
 ======
-#### Honors Thesis Writer
-###### Department of Economics, UC Davis
-June 2019 to Present
+**Honors Thesis Writer**, Department of Economics, UC Davis
+*June 2019 to Present*
   * Independently researching relationship between income inequality, the credit driven household demand channel, and financial crises for presentation at UC Davis's 2020 Undergraduate Research Conference
   * One of 6 students chosen, from pool of 16 high-achieving economics students in department of 500+ students, to write senior honors thesis based on oral examination of econometrics
   * Used Stata to replicate results of Credit Booms Gone Bust (2012) by Schularick and Taylor, rewriting code where necessary
   * Advisers: Giovanni Peri and Alan M. Taylor
 
-* Apr 2019 to June 2019: Research Assistant
-  * Department of Economics, UC Davis
+**Research Assistant**, Department of Economics, UC Davis
+*Apr 2019 to June 2019*
   * Used Stata to reshape data, recode values, and destring variables · Entered data on solders from Ancestry.com into Excel
   * Worked with graduate student John Blanchette on project examining differences in ex-slave Union soldiers' outcome based on discharge bounties
   * Supervisor: John Blanchette

@@ -45,7 +45,7 @@ Research experience
   
 Work experience
 ======
-* June 2019 to Aug 2019: Summer Associate
+* June 2019 to Aug 2019: Summer Associate 
   * Berkeley Research Group
   * Used Excel for event study to assess impact of 5 tech IPO dates on established tech firms' stock prices by creating simple and multiple linear regression models and running t-tests with 1.5 years of 30 NASDAQ tickers' daily observed values
   * Used R to organize 5 years of S&P 500's daily observed values and calculate sums · Wrote background reports with reputable sources on industries and companies involved in intellectual property cases for experts' use during meetings with clients' legal counsel

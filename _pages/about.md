@@ -27,7 +27,7 @@ I'm Taiwanese-American with roots in Southern Taiwan and the Bay Area. I think a
 * Ocean Vuong
 * Billy Collins
 
-**Currently reading:**
+**Currently Reading:**
 
 *Becoming* by Michelle Obama
 

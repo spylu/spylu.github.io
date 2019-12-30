@@ -25,18 +25,20 @@ Research experience
 
 **Research Assistant**, Department of Economics, UC Davis  
 *Apr 2019 to June 2019*
-  * Used Stata to reshape data, recode values, and destring variables · Entered data on solders from Ancestry.com into Excel
+  * Used Stata to reshape data, recode values, and destring variables
+  * Entered data on solders from Ancestry.com into Excel
   * Worked with graduate student John Blanchette on project examining differences in ex-slave Union soldiers' outcome based on discharge bounties
   * Supervisor: John Blanchette
   
 **Energy Data Analyst**, Davis Energy Economics Project, UC Davis  
 *Jan 2018 to June 2018*
   * Analyzed data for research project exploring effects of increasing market penetration of solar electric generation and electric vehicles on reliability of electricity distribution system
-  * Used QGIS to overlay electrical grid maps over Google Maps and create descriptive GeoJSON files · Used GitHub to access electrical grid map files and to push overlaid maps and GeoJSON files to shared repository
+  * Used QGIS to overlay electrical grid maps over Google Maps and create descriptive GeoJSON files
+  * Used GitHub to access electrical grid map files and to push overlaid maps and GeoJSON files to shared repository
   * Supervisor: Benjamin Dawson
   
-* Oct 2017 to June 2018: Research Assistant
-  * Center for Poverty Research, UC Davis
+**Research Assistant**, Center for Poverty Research, UC Davis  
+*Oct 2017 to June 2018*
   * Met weekly with two graduate students and two other undergraduates for labor economics project
   * Investigated recent increase in individuals affected by adverse non-wage characteristics
   * Used Stata and IPUMS data to document source of observed employment trends
@@ -45,17 +47,17 @@ Research experience
   
 Work experience
 ======
-* June 2019 to Aug 2019: Summer Associate 
-  * Berkeley Research Group
+**Summer Associate**, Berkeley Research Group  
+*June 2019 to Aug 2019*
   * Used Excel for event study to assess impact of 5 tech IPO dates on established tech firms' stock prices by creating simple and multiple linear regression models and running t-tests with 1.5 years of 30 NASDAQ tickers' daily observed values
   * Used R to organize 5 years of S&P 500's daily observed values and calculate sums · Wrote background reports with reputable sources on industries and companies involved in intellectual property cases for experts' use during meetings with clients' legal counsel
   * Extracted numerical figures from restricted and public documents for use in intellectual property damages models
     
 Skills
 ======
-* Data Analysis: Stata (proficient), R/RStudio (proficient), Excel (proficient)
-* Applications: LaTeX (proficient), QGIS (proficient), Bloomberg Terminal (working knowledge), Markdown (working knowledge)
-* Programming: Python (working knowledge), MATLAB (beginner)
+* **Data Analysis**: Stata (proficient), R/RStudio (proficient), Excel (proficient)
+* **Applications**: LaTeX (proficient), QGIS (proficient), Bloomberg Terminal (working knowledge), Markdown (working knowledge)
+* **Programming**: Python (working knowledge), MATLAB (beginner)
   
 Teaching
 ======

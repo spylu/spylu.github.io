@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Economics, UC Davis, June 2020 (expected)
-* B.S. in Mathematical Statistics, UC Davis, June 2020 (expected)
+* B.S. in General Statistics, UC Davis, June 2020 (expected)
 
 Research experience
 ======

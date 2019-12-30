@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-##### Honors Thesis Writer
+#### Honors Thesis Writer
 ###### Department of Economics, UC Davis
 June 2019 to Present
   * Independently researching relationship between income inequality, the credit driven household demand channel, and financial crises for presentation at UC Davis's 2020 Undergraduate Research Conference

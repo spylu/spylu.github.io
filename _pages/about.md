@@ -16,7 +16,7 @@ Hey! I'm an undergraduate student at the lovely University of California, Davis.
 
 I'm Taiwanese-American with roots in Southern Taiwan. I think a lot about how my parents did an entire timeskip from Third World living into modern development when they came of age during the Taiwan Miracle and then, more drastically, moved to America. I love reading non-non-fiction, cooking (my best recipe is coconut vegetable curry), hearing my relatives' stories about growing up in Taiwan, hot oolong tea, hip hop, and learning Taiwanese.
 
-#### Favorite Writers:
+**Favorite Writers:**
 
 * Margaret Atwood
 * Neil Gaiman
@@ -27,7 +27,7 @@ I'm Taiwanese-American with roots in Southern Taiwan. I think a lot about how my
 * Ocean Vuong
 * Billy Collins
 
-#### Currently reading:
+**Currently reading:**
 
 *Becoming* by Michelle Obama
 

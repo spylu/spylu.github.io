@@ -68,5 +68,5 @@ Teaching
 Service and leadership
 ======
 * June 2019 to present: President, Taiwanese American Organization
-* February 2019 to June 2019: Pledge Retreat Chair, Alpha Phi Omega
-* June 2018 to January 2019: Corresponding Secretary, Alpha Phi Omega
+* Feb 2019 to June 2019: Pledge Retreat Chair, Alpha Phi Omega
+* June 2018 to Jan 2019: Corresponding Secretary, Alpha Phi Omega

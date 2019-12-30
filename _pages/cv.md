@@ -35,7 +35,7 @@ Research experience
   * Analyzed data for research project exploring effects of increasing market penetration of solar electric generation and electric vehicles on reliability of electricity distribution system
   * Used QGIS to overlay electrical grid maps over Google Maps and create descriptive GeoJSON files
   * Used GitHub to access electrical grid map files and to push overlaid maps and GeoJSON files to shared repository
-  * Supervisor: Benjamin Dawson
+  * Supervisor: Benjamin Dawson  
   
 **Research Assistant**, Center for Poverty Research, UC Davis  
 *Oct 2017 to June 2018*

@@ -11,14 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics, UC Davis, June 2020 (expected)
-* B.S. in General Statistics, UC Davis, June 2020 (expected)
+* B.A. in Economics, UC Davis, June 2020 
+* B.S. in General Statistics, UC Davis, June 2020 
 
 Research experience
 ======
+**Research Assistant**, The Hamilton Project, Brookings Institution
+*Aug 2021 to Present*
+  * Using R, Stata, and Excel to analyze large datasets and produce compelling visualizations
+  * Co-authoring policy analyses with senior staff members
+  * Managing processes for commissioned/in-house documents, hiring, and onboarding
+
 **Honors Thesis Writer**, Department of Economics, UC Davis  
-*June 2019 to Present*
-  * Independently researching relationship between income inequality, the credit driven household demand channel, and financial crises for presentation at UC Davis's 2020 Undergraduate Research Conference
+*June 2019 to Apr 2020*
+  * Independently researched relationship between income inequality, the credit driven household demand channel, and financial crises for presentation at UC Davis's 2020 Undergraduate Research Conference
   * One of 6 students chosen, from pool of 16 high-achieving economics students in department of 500+ students, to write senior honors thesis based on oral examination of econometrics
   * Used Stata to replicate results of Credit Booms Gone Bust (2012) by Schularick and Taylor, rewriting code where necessary
   * Advisers: Giovanni Peri and Alan M. Taylor

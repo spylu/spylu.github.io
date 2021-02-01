@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-**Research Assistant**, The Hamilton Project, Brookings Institution
+**Research Assistant**, The Hamilton Project, Brookings Institution  
 *Aug 2021 to Present*
   * Using R, Stata, and Excel to analyze large datasets and produce compelling visualizations
   * Co-authoring policy analyses with senior staff members
